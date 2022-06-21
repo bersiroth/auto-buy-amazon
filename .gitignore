@@ -1,3 +1,4 @@
 *.png
 .idea/
 node_modules/
+/.env
